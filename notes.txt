@@ -1,0 +1,11 @@
+npm i -g typescript
+
+compiler fichier : tsc nom-du-fichier.ts
+tsc --init
+tsc -w
+
+plugin all in one : TypeScript Extension Pack
+
+
+********************************
+Parcel : npm i -g parcel-bundler
